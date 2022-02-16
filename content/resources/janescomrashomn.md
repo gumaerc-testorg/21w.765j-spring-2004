@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student response paper.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/e616301c4be314ae255e23055afe9597_janescomrashomn.pdf
+file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/e616301c4be314ae255e23055afe9597_janescomrashomn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: janescomrashomn.pdf
 uid: e616301c-4be3-14ae-255e-23055afe9597

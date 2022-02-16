@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student response paper.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/2c3afef6d28f90791e0c9beaf19fdaee_iseldjspokygedrm.pdf
+file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/2c3afef6d28f90791e0c9beaf19fdaee_iseldjspokygedrm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: iseldjspokygedrm.pdf
 uid: 2c3afef6-d28f-9079-1e0c-9beaf19fdaee

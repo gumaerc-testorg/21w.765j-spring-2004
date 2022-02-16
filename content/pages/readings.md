@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5efee89c-b82a-16dd-a1b9-492fa64708d3
 ---

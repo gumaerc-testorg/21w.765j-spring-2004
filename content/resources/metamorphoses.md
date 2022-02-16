@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Presentation of a student's final project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/d1af017bf3e758e21dde21e915290847_metamorphoses.pdf
+file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/d1af017bf3e758e21dde21e915290847_metamorphoses.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: metamorphoses.pdf
 uid: d1af017b-f3e7-58e2-1dde-21e915290847

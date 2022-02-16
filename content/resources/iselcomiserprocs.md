@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ce84c1695afffb242e8cd59c5cfd7ee8_iselcomiserprocs.pdf
+file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ce84c1695afffb242e8cd59c5cfd7ee8_iselcomiserprocs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: iselcomiserprocs.pdf
 uid: ce84c169-5aff-fb24-2e8c-d59c5cfd7ee8
