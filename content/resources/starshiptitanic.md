@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 17f80790-6573-2a22-b323-8a6c6e3417ed
 resourcetype: Document
 title: starshiptitanic.pdf
 uid: 996f3c84-3872-5b30-ec4d-19176f178758

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 17f80790-6573-2a22-b323-8a6c6e3417ed
 resourcetype: Document
 title: nikvsmatchildelz.pdf
 uid: c949915d-ebf7-e846-9894-1dd0454d88c1

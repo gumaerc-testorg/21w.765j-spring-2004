@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 17f80790-6573-2a22-b323-8a6c6e3417ed
 resourcetype: Document
 title: janescomtalmud.pdf
 uid: 99e60956-788a-4ada-c135-6dcf4b7cfd92

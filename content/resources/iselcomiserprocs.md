@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 17f80790-6573-2a22-b323-8a6c6e3417ed
 resourcetype: Document
 title: iselcomiserprocs.pdf
 uid: ce84c169-5aff-fb24-2e8c-d59c5cfd7ee8

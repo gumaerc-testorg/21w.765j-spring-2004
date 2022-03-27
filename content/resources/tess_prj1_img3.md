@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 17f80790-6573-2a22-b323-8a6c6e3417ed
 resourcetype: Other
 title: tess_prj1_img3.zip
 uid: 3bfe8209-f143-0830-cc8f-bb7254c91f86
