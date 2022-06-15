@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/f0182974ae42e14a4579c8824caf59ed_meeparesponse_vb.pdf
+file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/f0182974ae42e14a4579c8824caf59ed_meeparesponse_vb.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
