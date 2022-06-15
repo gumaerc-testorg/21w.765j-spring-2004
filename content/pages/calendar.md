@@ -1,79 +1,47 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 9cb78541-d750-5e6a-c55f-a9a7e9f78a4d
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction
 
-Jorge Furtado: _L’île aux fleurs_
+Jorge Furtado: *L’île aux fleurs*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Hypertext and Multiple Perspectives
 
 Vannevar Bush: "As We May Think"
 
-Theodor Nelson: Excerpts from _Literary Machines_
+Theodor Nelson: Excerpts from *Literary Machines*
 
 Visual Narrative Project
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Hypertext and Its Literary Origins
 
 Jorge Luis Borges: "The Garden of the Forking Paths" and "The Library of Babel"
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Authorship/Readership
 
@@ -85,329 +53,186 @@ Robert Goldberg: "Talmud"
 
 Telling Stories with Photos (Guest Speaker)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Experimental Literature
 
-Raymond Queneau: _Cent Mille Milliard de poems_
+Raymond Queneau: *Cent Mille Milliard de poems*
 
-Texts by the OULIPO Group (Georges Perec, Raymond Queneau_)_
+Texts by the OULIPO Group (Georges Perec, Raymond Queneau)
 
-Julio Cortazar: _Ryuela_
+Julio Cortazar: *Ryuela*
 
-Paul Fournel: _Suburbia_
+Paul Fournel: *Suburbia*
 
-David Small_: The Talmud Project_ and _Illuminated Manuscript_
+David Small: *The Talmud Project* and *Illuminated Manuscript*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Encyclopedic Narratives
 
-Dante: _Divine Comedy (Purgatory)_
+Dante: *Divine Comedy (Purgatory)*
 
-James Joyce: _Finnegans Wake_
+James Joyce: *Finnegans Wake*
 
-Arno Schmidt: _Zettels Traum_
+Arno Schmidt: *Zettels Traum*
 
-Peter Greenaway: _Dante’s Inferno_
+Peter Greenaway: *Dante’s Inferno*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Visual Narratives
 
 Class Presentations
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Audio Narratives: Creating Spaces with Audio
 
-Walter Ruttmann: _Weekend_ (1929) and _Remixes_ (1998)
+Walter Ruttmann: *Weekend* (1929) and *Remixes* (1998)
 
 Visual Narratives: Class Presentations (cont.)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Narrative Spaces in Film
 
-Walter Ruttman, _Berlin - Symphony of the City_
+Walter Ruttman, *Berlin - Symphony of the City*
 
-Dziga Vertov: _The Man with the Movie Camera_
+Dziga Vertov: *The Man with the Movie Camera*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 The City as Narrative Space
 
-Paul Wühr: _Soundseeing Munich_ (1987)
+Paul Wühr: *Soundseeing Munich* (1987)
 
-Bill Fontana: _Sound-Bridge Cologne-Kyoto_ (1993)
+Bill Fontana: *Sound-Bridge Cologne-Kyoto* (1993)
 
 Audio Project
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Narratives and Databases
 
 Lev Manovich: Database
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 The End or the Future of Narratives
 
-Janet Murray/Sven Birkerts: Authors @ MIT (Video)  
-  
+Janet Murray/Sven Birkerts: Authors @ MIT (Video)
+
 Audio Project: Presentations
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Audio Project: Presentations
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Hypertext Fiction, Net Literature
 
-Michael Joyce: _Afternoon_
+Michael Joyce: *Afternoon*
 
-Stuart Moulthrop: _Victory Garden_
+Stuart Moulthrop: *Victory Garden*
 
-Shelley Jackson : _Patchwork Girl_
+Shelley Jackson : *Patchwork Girl*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Interactive Narratives and Virtual Spaces (Guest Speaker)
 
 Janet Murray: Properties of Digital Media
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Interactive Narrative Projects at Media Lab’s Interactive Cinema Group (Guest Speaker)
 
 Joseph Weizenbaum: ELIZA
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
-Multi-linear Narratives: _Run Lola Run, Sliding Doors, Groundhog Day_
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Multi-linear Narratives: *Run Lola Run, Sliding Doors, Groundhog Day*
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Multi-perspective Narratives in Film: _Memento, Time Code, Groundhog Day_
+Multi-perspective Narratives in Film: *Memento, Time Code, Groundhog Day*
 
 Narratives in Games
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
-Multi-perspective Narratives in Film: _Run Lola Run, Sliding Doors_
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Multi-perspective Narratives in Film: *Run Lola Run, Sliding Doors*
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Interactive Narratives
 
-Gilberte Furstenberg: _A la rencontre de Philippe_
+Gilberte Furstenberg: *A la rencontre de Philippe*
 
-Interactive Movie: _Tender Loving Care_
+Interactive Movie: *Tender Loving Care*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Dialogical Narratives
 
-Douglas Morgenstern: _No recuerdo_ and _ELIZA_
+Douglas Morgenstern: *No recuerdo* and *ELIZA*
 
 Analysis of Games and Their Narrative Structures
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Emergent Narratives
 
-Ellen Crocker/Kurt Fendt: _Berliner sehen_
+Ellen Crocker/Kurt Fendt: *Berliner sehen*
 
 Analysis of Games and Their Narrative Structures
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Game Presentations
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Game Presentations
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Project Presentations
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Project Presentations
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
