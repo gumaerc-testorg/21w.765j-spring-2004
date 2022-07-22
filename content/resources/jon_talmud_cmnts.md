@@ -5,6 +5,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jon_talmud_cmnts.pdf
 uid: f44825a4-529d-1bd3-b7f4-2a90dfa6fcea
 ---
 Student response paper.
-

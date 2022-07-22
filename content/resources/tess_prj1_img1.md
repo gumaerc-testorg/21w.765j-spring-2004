@@ -6,6 +6,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tess_prj1_img1.zip
 uid: 665bbcd4-6e8f-8a56-b8a9-086a3c03ce4e
 ---
 Images associated with a student project. The ZIP file contains: dooropen 2.jpg, from side.jpg, and from top.jpg.
-

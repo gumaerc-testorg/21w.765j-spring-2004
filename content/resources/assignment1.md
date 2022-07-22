@@ -5,6 +5,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment1.pdf
 uid: ecdebc62-db1b-3d90-b6e7-2572dcbc9365
 ---
 This handout contains a reading assignment along with discussion questions.
-

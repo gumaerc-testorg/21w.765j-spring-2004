@@ -5,6 +5,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finaldesgndocnt.pdf
 uid: 909dcee0-3511-b8e1-51ff-c14fabcce09b
 ---
 Final design document for a student project.
-

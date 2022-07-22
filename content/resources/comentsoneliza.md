@@ -6,6 +6,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: comentsoneliza.pdf
 uid: 8a1a2b11-c4a8-51e8-e1d5-cad42c9860f4
 ---
 Transcript of conversations with a computer language program along with student comments.
-

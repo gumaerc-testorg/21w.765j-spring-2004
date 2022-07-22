@@ -10,6 +10,7 @@ file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 420d125b-2f77-72ca-b4f4-197b001c6ed3
 Project assignment. The first project explores notions of non-/multi-linear and/or interactive
 narratives such as reader involvement, evolving narrative structure, role
 of the author(s), etc.
-
