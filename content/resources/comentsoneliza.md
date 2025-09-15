@@ -2,7 +2,8 @@
 content_type: resource
 description: Transcript of conversations with a computer language program along with
   student comments.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/8a1a2b11c4a851e8e1d5cad42c9860f4_comentsoneliza.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/8a1a2b11c4a851e8e1d5cad42c9860f4_comentsoneliza.pdf
+file_size: 15343
 file_type: application/pdf
 learning_resource_types:
 - Projects

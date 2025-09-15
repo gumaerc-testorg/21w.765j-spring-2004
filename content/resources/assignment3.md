@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Reading assignment and group presentation assignment.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/1eb8f52df0d8dc8283e6d8d00fa98732_Assignment3.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/1eb8f52df0d8dc8283e6d8d00fa98732_Assignment3.pdf
+file_size: 19240
 file_type: application/pdf
 learning_resource_types:
 - Projects

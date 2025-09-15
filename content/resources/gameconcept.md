@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Final report of a student's project.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/fe8f0982e39a0ee53db781f5588c9dcf_gameconcept.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/fe8f0982e39a0ee53db781f5588c9dcf_gameconcept.pdf
+file_size: 19544
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This handout contains a reading assignment along with discussion questions.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ecdebc62db1b3d90b6e72572dcbc9365_Assignment1.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ecdebc62db1b3d90b6e72572dcbc9365_Assignment1.pdf
+file_size: 27264
 file_type: application/pdf
 learning_resource_types:
 - Projects

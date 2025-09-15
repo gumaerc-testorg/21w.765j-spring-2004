@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Reading assignment and discussion questions.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/45fff6fccbcdb0c5f0ef571f79c3aee6_Assignment4.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/45fff6fccbcdb0c5f0ef571f79c3aee6_Assignment4.pdf
+file_size: 25094
 file_type: application/pdf
 learning_resource_types:
 - Projects

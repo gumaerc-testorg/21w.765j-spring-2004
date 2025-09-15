@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Group project report.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ac1b5cd551e8a2f7eff0503e92e5c78b_proj1deschexagon.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ac1b5cd551e8a2f7eff0503e92e5c78b_proj1deschexagon.pdf
+file_size: 18651
 file_type: application/pdf
 learning_resource_types:
 - Projects

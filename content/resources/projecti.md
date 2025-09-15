@@ -6,7 +6,8 @@ description: 'Project assignment. The first project explores notions of non-/mul
   narratives such as reader involvement, evolving narrative structure, role
 
   of the author(s), etc.'
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/420d125b2f7772cab4f4197b001c6ed3_ProjectI.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/420d125b2f7772cab4f4197b001c6ed3_ProjectI.pdf
+file_size: 18817
 file_type: application/pdf
 learning_resource_types:
 - Projects

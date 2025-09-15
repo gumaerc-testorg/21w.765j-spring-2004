@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Write-up of a student's final project.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/a69a9f4130c7afd8244d3ab99e73c1f6_writeup.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/a69a9f4130c7afd8244d3ab99e73c1f6_writeup.pdf
+file_size: 14441
 file_type: application/pdf
 learning_resource_types:
 - Projects

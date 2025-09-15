@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: List of suggested ideas for the final project assignment.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/cb0fd704ef8755cdc4d915e0acec4f49_FinalProject.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/cb0fd704ef8755cdc4d915e0acec4f49_FinalProject.pdf
+file_size: 26343
 file_type: application/pdf
 learning_resource_types:
 - Projects

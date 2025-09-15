@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Movie viewing assignment along with discussion questions.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/d6636bfb5eac435da477a8e10fa0ff36_Assignment10.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/d6636bfb5eac435da477a8e10fa0ff36_Assignment10.pdf
+file_size: 30455
 file_type: application/pdf
 learning_resource_types:
 - Projects

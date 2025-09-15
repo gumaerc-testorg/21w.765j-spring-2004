@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Final design document for a student project.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/909dcee03511b8e151ffc14fabcce09b_finaldesgndocnt.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/909dcee03511b8e151ffc14fabcce09b_finaldesgndocnt.pdf
+file_size: 15566
 file_type: application/pdf
 learning_resource_types:
 - Projects

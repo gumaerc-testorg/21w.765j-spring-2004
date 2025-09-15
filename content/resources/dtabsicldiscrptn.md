@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Student project.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/74f1e97ccd63a8c82a9825ed96a65b98_dtabsicldiscrptn.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/74f1e97ccd63a8c82a9825ed96a65b98_dtabsicldiscrptn.pdf
+file_size: 23817
 file_type: application/pdf
 learning_resource_types:
 - Projects

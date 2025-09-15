@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: KoTOR 01.jpg, KoTOR 02.jpg, and KoTOR 03.jpg.'
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/2b0532a77d6304a5e55e15d10cac0a86_a11_images.zip
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/2b0532a77d6304a5e55e15d10cac0a86_a11_images.zip
+file_size: 217814
 file_type: application/zip
 learning_resource_types:
 - Projects

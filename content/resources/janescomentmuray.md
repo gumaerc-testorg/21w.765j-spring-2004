@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Student response paper.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/3bd8b9f347ff3928797639aa94b67d41_janescomentmuray.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/3bd8b9f347ff3928797639aa94b67d41_janescomentmuray.pdf
+file_size: 8972
 file_type: application/pdf
 learning_resource_types:
 - Projects

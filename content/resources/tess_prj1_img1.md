@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Images associated with a student project. The ZIP file contains: dooropen
   2.jpg, from side.jpg, and from top.jpg.'
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/665bbcd46e8f8a56b8a9086a3c03ce4e_tess_prj1_img1.zip
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/665bbcd46e8f8a56b8a9086a3c03ce4e_tess_prj1_img1.zip
+file_size: 2712152
 file_type: application/zip
 learning_resource_types:
 - Projects

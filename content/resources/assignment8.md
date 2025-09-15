@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for completing audio project.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/66f686d923e3fcdb7e6ff7aa18eaab4e_Assignment8.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/66f686d923e3fcdb7e6ff7aa18eaab4e_Assignment8.pdf
+file_size: 28563
 file_type: application/pdf
 learning_resource_types:
 - Projects

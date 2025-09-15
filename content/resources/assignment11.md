@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ae2f566a4b6a67ddbda6f471a0224d87_Assignment11.pdf
+file: /ol-ocw-studio-app/courses/21w-765j-interactive-and-non-linear-narrative-theory-and-practice-spring-2004/ae2f566a4b6a67ddbda6f471a0224d87_Assignment11.pdf
+file_size: 26898
 file_type: application/pdf
 learning_resource_types:
 - Projects
