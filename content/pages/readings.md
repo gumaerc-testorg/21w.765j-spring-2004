@@ -10,19 +10,19 @@ uid: 5efee89c-b82a-16dd-a1b9-492fa64708d3
 ---
 ## Course Text
 
-Wardrip-Fruin, Noah, and Nick Montfort, eds. [*The New Media Reader*](http://www.newmediareader.com/). Cambridge, Mass.: MIT Press, 2003.
+Wardrip-Fruin, Noah, and Nick Montfort, eds. {{% resource_link "b2588ef9-e0a7-4277-ac6b-78b2859c0551" "*The New Media Reader*" %}}. Cambridge, Mass.: MIT Press, 2003.
 
 ## Literary Texts
 
 Lightman, Alan. *Einstein’s Dreams.* New York: Warner Books, 1994, pp. 8-27, 38-42, 61-65, 75-84, 112-116, 123-127, 133-137, 153-157.
 
-Joyce, James. *Ulysses.* Mineola, N.Y.: Dover Publications, 2002 (excerpts). ([Download](http://www.gutenberg.org/etext/4300) a version of the text from Project Gutenberg.)
+Joyce, James. *Ulysses.* Mineola, N.Y.: Dover Publications, 2002 (excerpts). ({{% resource_link "5ace1fdf-b660-4cdc-adf0-eb7e268de8ca" "Download" %}} a version of the text from Project Gutenberg.)
 
 Joyce, James. *Finnegans Wake.* New York: Penguin Books, 1999 (excerpts).
 
 Queneau, Raymond. *Cent Mille Milliard de Poems.* Paris: Kickshaws, 1983.
 
-Dante. "Inferno." In *The Divine Comedy.* Oxford and New York: Oxford University Press, 1993. ([Download](http://www.gutenberg.org/ebooks/8800)  a version of the text from Project Gutenberg.)
+Dante. "Inferno." In *The Divine Comedy.* Oxford and New York: Oxford University Press, 1993. ({{% resource_link "81bc181f-e566-4851-aaa9-82690d693df7" "Download" %}}  a version of the text from Project Gutenberg.)
 
 Queneau, Raymond. *Exercises in Style.* 2nd ed. New York: New Directions Publishing Corporation, 1981.
 
@@ -57,7 +57,7 @@ Greco, Diane. *Cyborg: Engineering The Body Electric.* Watertown, Mass.: Eastgat
 
 Strickland, Stephanie. *True North.* Watertown, Mass.: Eastgate Systems, 1997.
 
-[StorySpace 2](http://www.eastgate.com/Storyspace2.html)
+{{% resource_link "05a114a9-b9ea-4b36-b52d-b16d983d4dbb" "StorySpace 2" %}}
 
 *ELIZA*
 
@@ -65,33 +65,33 @@ Strickland, Stephanie. *True North.* Watertown, Mass.: Eastgate Systems, 1997.
 
 ## Films/Videos/Interactive Movies/Projects
 
-Ramis, Harold. [*Groundhog Day*](http://www.imdb.com/title/tt0107048/)*.* 1993.
+Ramis, Harold. {{% resource_link "045dcabf-19f4-4666-a0fb-f4fe1fa4fc39" "*Groundhog Day*" %}}*.* 1993.
 
-Howitt, Peter. [*Sliding Doors*](http://www.imdb.com/title/tt0120148/)*.* 1998.
+Howitt, Peter. {{% resource_link "19457276-4fa6-41fd-b1d7-597c577f548e" "*Sliding Doors*" %}}*.* 1998.
 
-Nolan, Christopher. [*Memento*](http://www.imdb.com/title/tt0209144/). 2000.
+Nolan, Christopher. {{% resource_link "bfc5a6dd-90b1-4859-b2ec-5e68d84e8fd3" "*Memento*" %}}. 2000.
 
-Figgis, Mike. [*Time Code*](http://www.imdb.com/title/tt0220100/)*.* 2000.
+Figgis, Mike. {{% resource_link "91139f4b-d92e-4791-a890-dde95a55df1a" "*Time Code*" %}}*.* 2000.
 
-Ruttmann, Walter. [*Berlin: Symphony of the City*](http://www.imdb.com/title/tt0017668/)*.* 1927.
+Ruttmann, Walter. {{% resource_link "573218cc-3726-41c9-89a7-aaf0f6b3b2c6" "*Berlin: Symphony of the City*" %}}*.* 1927.
 
-Vertov, Dziga. [*Man with a Movie Camera*](http://www.imdb.com/title/tt0019760/)*.* 1929. 
+Vertov, Dziga. {{% resource_link "643a1d81-b374-4ac1-8f8e-07da9177df00" "*Man with a Movie Camera*" %}}*.* 1929. 
 
-Greenaway, Peter. [*Prospero's Books*](http://www.imdb.com/title/tt0102722/)*.* 1991.
+Greenaway, Peter. {{% resource_link "03bb2c47-c55e-4c44-83dd-6beea9ef9562" "*Prospero's Books*" %}}*.* 1991.
 
 Greenaway, Peter. 
 
-[*\_Dante’s Inferno*](http://www.imdb.com/title/tt0098428/)*.* 1993.
+{{% resource_link "56400c48-5841-496b-aa9e-aa97729be47f" "*\_Dante’s Inferno*" %}}*.* 1993.
 
 Recordings of Douglas Engelbart, Ted Nelson, and Tim Berners-Lee.
 
-Furstenberg, Gilberte. [*A la Rencontre de Philippe*](https://mitgsl.mit.edu/research/digital-humanities-and-creative-pedagogies/la-rencontre-de-philippe)*.* 1993.
+Furstenberg, Gilberte. {{% resource_link "d36c357b-4251-45e5-aa35-d0b42edf9f55" "*A la Rencontre de Philippe*" %}}*.* 1993.
 
-Crocker, Ellen, and Kurt Fendt. [*Berliner sehen*](http://berlinersehen.mit.edu/users/sign_in)*.* 1999.
+Crocker, Ellen, and Kurt Fendt. {{% resource_link "3cf0c9df-653e-41ca-99ae-80e394336b13" "*Berliner sehen*" %}}*.* 1999.
 
-Morgenstern, Douglas. [*No Recuerdo*](https://mitgsl.mit.edu/news/douglas-morgenstern-looks-back-no-recuerdo-and-mitupv-exchange-projects)*.*
+Morgenstern, Douglas. {{% resource_link "a07c614a-d2f2-4443-9b1f-5832ef2400e1" "*No Recuerdo*" %}}*.*
 
-Tykwer, Tom. [*Run Lola Run*](http://www.imdb.com/title/tt0130827/)*.* 1998.
+Tykwer, Tom. {{% resource_link "f8fef756-1716-4ffa-9332-e269f3b9c06e" "*Run Lola Run*" %}}*.* 1998.
 
 ## Audio Works
 
@@ -121,7 +121,7 @@ Nelson, Theodore H. *Literary Machines.* Swarthmore, Pa.: T. H. Nelson, 1981.
 
 Murray, Janet. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace.* New York, Free Press, 1997.
 
-Jenkins, Henry. "[Game Design as Narrative Architecture](http://web.mit.edu/cms/People/henry3/games&narrative.html)" (and other texts). In *First Person: New Media as Story, Performance, and Game*, edited by Noah Wardrip-Fruin and Pat Harrigan. Cambridge, Mass.: MIT Press, 2004.
+Jenkins, Henry. "{{% resource_link "280c3e52-138a-44cc-af26-f88c4a1b61d0" "Game Design as Narrative Architecture" %}}" (and other texts). In *First Person: New Media as Story, Performance, and Game*, edited by Noah Wardrip-Fruin and Pat Harrigan. Cambridge, Mass.: MIT Press, 2004.
 
 Landow, George. *Hypertext 2.0.* Baltimore: Johns Hopkins University Press, 1997.
 
