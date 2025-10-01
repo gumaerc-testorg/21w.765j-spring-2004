@@ -85,7 +85,7 @@ Description of Hexagon Association, courtesy of Issel Anne Lim. Used with permis
 Design Document, Project 1 ({{% resource_link 321ee70d-137a-3c11-f6d7-a5f53a3a0825 "PDF" %}})  
 Associated Images ({{% resource_link 665bbcd4-6e8f-8a56-b8a9-086a3c03ce4e "ZIP 1 of 3 - 2.6 MB" %}}) (The ZIP file contains: dooropen 2.jpg, from side.jpg, and from top.jpg.) ({{% resource_link 6b6562cc-711a-dc0b-c6c0-c572ea650dfe "ZIP 2 of 3 - 2.8 MB" %}}) (The ZIP file contains: opened.jpg, outerwall 1.jpg, and outerwall 2.jpg.) ({{% resource_link 3bfe8209-f143-0830-cc8f-bb7254c91f86 "ZIP 3 of 3 - 2.1 MB" %}}) (The ZIP file contains: windows.jpg, and inner wall.jpg.)
 
-See also the [Class Projects Web Site](http://web.mit.edu/CMS.845/www/projects/)
+See also the {{% resource_link "ee44ef3e-b3fa-4ce4-afb1-f572eca8580b" "Class Projects Web Site" %}}
 
 **Final Project** ({{% resource_link cb0fd704-ef87-55cd-c4d9-15e0acec4f49 "PDF" %}})
 
